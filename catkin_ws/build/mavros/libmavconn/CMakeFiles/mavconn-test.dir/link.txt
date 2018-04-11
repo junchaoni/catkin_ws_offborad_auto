@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/mavconn-test.dir/test/test_mavconn.cpp.o  -o /home/work/catkin_ws/devel/lib/libmavconn/mavconn-test  -L/home/work/catkin_ws/build/gtest -Wl,-rpath,/home/work/catkin_ws/build/gtest:/home/work/catkin_ws/devel/lib ../../gtest/libgtest.so /home/work/catkin_ws/devel/lib/libmavconn.so -lpthread -lboost_system -lconsole_bridge 
